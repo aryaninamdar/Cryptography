@@ -49,3 +49,5 @@ def Atbash_Cipher():
   else:
     print("The encrypted word/phrase is: ")
     print(encrypted_word)
+    
+Atbash_Cipher()
