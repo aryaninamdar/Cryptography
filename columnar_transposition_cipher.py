@@ -70,3 +70,5 @@ def Columnar_Transposition_Cipher():
   else:
     print("The encrypted word/phrase is: ")
     print(encrypted_word)
+
+Columnar_Transposition_Cipher()
