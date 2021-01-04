@@ -61,3 +61,5 @@ def Caesar_Cipher():
   else:
     print("The encrypted word/phrase is: ")
     print(encrypted_word)
+    
+  Caesar_Cipher()
