@@ -46,3 +46,5 @@ def Baconian_Cipher():
   else:
     print("The encrypted word/phrase is: ")
     print(encrypted_word)
+    
+Baconian_Cipher()
