@@ -48,3 +48,6 @@ For a visual and in-depth example of this cipher, please visit: https://www.yout
 The four-square cipher uses four 5 by 5 matrices arranged in a square. Each of the 5 by 5 matrices contains 25 letters, usually the letter 'j' is merged with 'i'. In general, the upper-left and lower-right matrices are the "plaintext squares" and each contain a standard alphabet. The upper-right and lower-left squares are the "ciphertext squares" and contain a mixed alphabetic sequence. The ciphertext squares can be generated using a keyword (dropping duplicate letters), then fill the remaining spaces with the remaining letters of the alphabet in order. Alternatively the ciphertext squares can be generated completely randomly. The four-square algorithm allows for two separate keys, one for each of the two ciphertext matrices.
 
 For instructions on how to encrypt messages using the Four Square Cipher, please visit: http://practicalcryptography.com/ciphers/classical-era/four-square/
+
+## Shareable Link to Code
+https://colab.research.google.com/drive/1Ia2FLF2Prx7phaz_XcjknfVwMT4PWs0F?usp=sharing
